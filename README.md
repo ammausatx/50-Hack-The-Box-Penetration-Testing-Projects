@@ -37,13 +37,13 @@ Nmap, WhatWeb, Nikto, Gobuster, ffuf, Burp Suite, SQLmap, smbclient, enum4linux-
 - [Project 16: Manual Web App Pentest with Burp Suite](projects/16-manual-web-app-pentest-with-burp-suite/README.md)
 - [Project 17: Automated Web Scanning and Manual Validation](projects/17-automated-web-scanning-and-manual-validation/README.md)
 - [Project 18: File Upload and Content Handling](projects/18-file-upload-and-content-handling/README.md)
-- [Project 19: LFI RFI and Path Traversal](projects/19-lfi-rfi-and-path-traversal/README.md)
+- [Project 19: LFI/RFI and Path Traversal](projects/19-lfi-rfi-and-path-traversal/README.md)
 - [Project 20: Command Injection and Safe Proof of Execution](projects/20-command-injection-and-safe-proof-of-execution/README.md)
 - [Project 21: Linux Privilege Escalation Enumeration](projects/21-linux-privilege-escalation-enumeration/README.md)
-- [Project 22: SUID SGID and Linux Capabilities Review](projects/22-suid-sgid-and-linux-capabilities-review/README.md)
-- [Project 23: Cron Services and Writable Path Misconfigurations](projects/23-cron-services-and-writable-path-misconfigurations/README.md)
+- [Project 22: SUID/SGID and Linux Capabilities Review](projects/22-suid-sgid-and-linux-capabilities-review/README.md)
+- [Project 23: Cron, Services, and Writable Path Misconfigurations](projects/23-cron-services-and-writable-path-misconfigurations/README.md)
 - [Project 24: Windows Privilege Escalation Enumeration](projects/24-windows-privilege-escalation-enumeration/README.md)
-- [Project 25: Windows Services Registry and Token Privileges](projects/25-windows-services-registry-and-token-privileges/README.md)
+- [Project 25: Windows Services, Registry, and Token Privileges](projects/25-windows-services-registry-and-token-privileges/README.md)
 - [Project 26: SMB Share and NTLM Exposure Assessment](projects/26-smb-share-and-ntlm-exposure-assessment/README.md)
 - [Project 27: Active Directory Enumeration with BloodHound](projects/27-active-directory-enumeration-with-bloodhound/README.md)
 - [Project 28: AD Credential and Kerberos Misconfiguration Review](projects/28-ad-credential-and-kerberos-misconfiguration-review/README.md)
@@ -59,8 +59,8 @@ Nmap, WhatWeb, Nikto, Gobuster, ffuf, Burp Suite, SQLmap, smbclient, enum4linux-
 
 - [Project 36: End-to-End Linux Machine Assessment](projects/36-end-to-end-linux-machine-assessment/README.md)
 - [Project 37: End-to-End Windows Machine Assessment](projects/37-end-to-end-windows-machine-assessment/README.md)
-- [Project 38: Active Directory Attack Path Analysis Lab Only](projects/38-active-directory-attack-path-analysis-lab-only/README.md)
-- [Project 39: Web App Chain Discovery to Impact](projects/39-web-app-chain-discovery-to-impact/README.md)
+- [Project 38: Active Directory Attack Path Analysis (Lab Only)](projects/38-active-directory-attack-path-analysis-lab-only/README.md)
+- [Project 39: Web App Chain: Discovery to Impact](projects/39-web-app-chain-discovery-to-impact/README.md)
 - [Project 40: SQL Injection to Controlled Data Access](projects/40-sql-injection-to-controlled-data-access/README.md)
 - [Project 41: API Discovery and Authorization Testing](projects/41-api-discovery-and-authorization-testing/README.md)
 - [Project 42: SSRF and Server-Side Request Handling](projects/42-ssrf-and-server-side-request-handling/README.md)
@@ -69,9 +69,9 @@ Nmap, WhatWeb, Nikto, Gobuster, ffuf, Burp Suite, SQLmap, smbclient, enum4linux-
 - [Project 45: Linux Kernel and Local Privilege Escalation Research](projects/45-linux-kernel-and-local-privilege-escalation-research/README.md)
 - [Project 46: Windows Domain Privilege Escalation Chain](projects/46-windows-domain-privilege-escalation-chain/README.md)
 - [Project 47: Metasploit Customization and Resource Scripts](projects/47-metasploit-customization-and-resource-scripts/README.md)
-- [Project 48: Automated Enumeration Pipeline Nmap Web LinPEAS WinPEAS](projects/48-automated-enumeration-pipeline-nmap-web-linpeas-winpeas/README.md)
-- [Project 49: HTB Red Team Simulation Scoped](projects/49-htb-red-team-simulation-scoped/README.md)
-- [Project 50: HTB Full Pentest Capstone Recon to Reporting](projects/50-htb-full-pentest-capstone-recon-to-reporting/README.md)
+- [Project 48: Automated Enumeration Pipeline (Nmap + Web + LinPEAS/WinPEAS)](projects/48-automated-enumeration-pipeline-nmap-web-linpeas-winpeas/README.md)
+- [Project 49: HTB Red Team Simulation (Scoped)](projects/49-htb-red-team-simulation-scoped/README.md)
+- [Project 50: HTB Full Pentest Capstone: Recon to Reporting](projects/50-htb-full-pentest-capstone-recon-to-reporting/README.md)
 
 ## Progress
 
@@ -82,7 +82,7 @@ Nmap, WhatWeb, Nikto, Gobuster, ffuf, Burp Suite, SQLmap, smbclient, enum4linux-
 
 ## Evidence and screenshots
 
-Every project README embeds three unique, project-labelled simulated SVG training illustrations: workflow, findings, and validation (150 total). They are clearly identified as simulated visuals, not real HTB screenshots or proof of execution. Each guide also includes a screenshot checklist for adding your own redacted terminal, browser, or HTB lab screenshots after completing the exercise.
+Every project README embeds three project-specific simulated SVG training illustrations: workflow, findings, and validation (150 total). They are labelled as simulated visuals, not real HTB screenshots or proof of execution. Each guide also includes a checklist for adding your own redacted terminal, browser, or HTB lab screenshots after completing the exercise.
 
 ## Reporting standard
 
